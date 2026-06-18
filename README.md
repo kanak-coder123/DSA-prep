@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/kanak-coder123/DSA-prep/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/kanak-coder123/DSA-prep/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kanak-coder123/DSA-prep/tree/master/0412-fizz-buzz) |
 ## String
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kanak-coder123/DSA-prep/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kanak-coder123/DSA-prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

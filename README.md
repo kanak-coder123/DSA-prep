@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanak-coder123/DSA-prep/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/kanak-coder123/DSA-prep/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kanak-coder123/DSA-prep/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/kanak-coder123/DSA-prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kanak-coder123/DSA-prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kanak-coder123/DSA-prep/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0268-missing-number) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/kanak-coder123/DSA-prep/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

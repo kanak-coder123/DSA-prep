@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/kanak-coder123/DSA-prep/tree/master/0058-length-of-last-word) |
+| [0316-remove-duplicate-letters](https://github.com/kanak-coder123/DSA-prep/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/kanak-coder123/DSA-prep/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanak-coder123/DSA-prep/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kanak-coder123/DSA-prep/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kanak-coder123/DSA-prep/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/kanak-coder123/DSA-prep/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->

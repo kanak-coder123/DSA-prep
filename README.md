@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kanak-coder123/DSA-prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanak-coder123/DSA-prep/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kanak-coder123/DSA-prep/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kanak-coder123/DSA-prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kanak-coder123/DSA-prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kanak-coder123/DSA-prep/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kanak-coder123/DSA-prep/tree/master/0316-remove-duplicate-letters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kanak-coder123/DSA-prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

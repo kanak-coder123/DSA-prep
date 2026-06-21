@@ -1,15 +1,21 @@
 class Solution:
     def generate(self, numRows: int) -> list[list[int]]:
-        triangle = []
+        if numRows == 0:
+            return []
+            
+        x = []
+        x.append([1])
+        
+        for i in range(numRows - 1):
+            n = i + 1
+            y = [1] * (n + 1)
+            val = 1
+            
+            for j in range(1, n + 1):
+                val = val * (n - j + 1) // j
+                y[j] = val
+                
+            x.append(y)
+            
+        return x
 
-        for i in range(numRows):
-            row = [1] * (i + 1)
-            val = 1 
-
-            for j in range(i):
-                val = val * (i - j) // (j + 1)
-                row[j + 1] = val
-
-            triangle.append(row)
-
-        return triangle
